@@ -15,3 +15,5 @@ Configurando o Phishing no Kali Linux
     Método de ataque: Site Cloner
     Obtendo o endereço da máquina: ifconfig
     URL para clone: http://www.facebook.com
+
+![image](https://github.com/user-attachments/assets/13c4bde9-1851-4bdc-87c7-dcebbb15203f)
